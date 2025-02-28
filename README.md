@@ -1,4 +1,4 @@
-<h2 align="center">Integrated System for Quality Assessment Based on Texture, Health, and Ripeness Evaluation for Mangoes</h2>
+<h3 align="center">Integrated System for Quality Assessment Based on Texture, Health, and Ripeness Evaluation for Mangoes</h3>
 
 <p align="center">
   <img src="images/CreativeDesigns.png" alt="Project Image" width="900">
