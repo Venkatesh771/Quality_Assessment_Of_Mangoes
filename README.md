@@ -26,7 +26,7 @@ Each mango image in the dataset is labeled based on the following assessment cri
 🟠 **4 – Slightly Rough**  
 🔴 **5 – Very Rough**  
 
----
+___
 
 ### **2️⃣ Healthiness Assessment**  
 📌 **Likert Scale (1 to 5):**  
