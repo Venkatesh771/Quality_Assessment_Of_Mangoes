@@ -62,6 +62,8 @@ ___
 ### 🏗️ Feature Extraction  
 Extracting **texture, color distribution, and edges** to enhance model learning.  
 
+---
+
 ### 🛠️ Model Input Preparation  
 Images are converted into **numerical matrices**, normalized (0-1 range), and prepped for deep learning models.  
 
