@@ -87,6 +87,9 @@ Models were trained and evaluated using:
 
 📌 **Hyperparameter tuning** was performed to enhance performance.  
 
+<p align="center">
+  <img src="images/image3.png" alt="Project Image" width="900">
+</p>
 
 ### ✅ Conclusion  
 SVM and KNN were tested for mango classification. The best-performing model was selected for final deployment, ensuring accurate texture, healthiness, and maturity assessment.  
