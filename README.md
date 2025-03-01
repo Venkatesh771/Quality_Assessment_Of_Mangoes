@@ -6,7 +6,8 @@
 
 ### <span style="color:#FFA500;">🔍 Project Overview</span>
 
-**<span style="color:#FF4500;">An AI-powered system designed to assess mango quality based on texture, health, and ripeness.</span>**  
-This project leverages <span style="color:#008000;">image processing</span> and <span style="color:#0000FF;">deep learning techniques</span> to automate the classification of mangoes for better quality control.
+**<span style="color:#FF4500;">An AI-powered system</span>** designed to assess mango quality based on **<span style="color:#008000;">texture</span>**, **<span style="color:#FF6347;">health</span>**, and **<span style="color:#FFD700;">ripeness</span>**.  
+This project leverages **<span style="color:#4682B4;">image processing</span>** and **<span style="color:#9400D3;">deep learning techniques</span>** to automate the classification of mangoes for better quality control.
+
 
 
