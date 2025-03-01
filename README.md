@@ -8,45 +8,55 @@
 **🚀 An AI-powered system** designed to assess mango quality based on **🟢 Texture**, **🍅 Health**, and **🥭 Ripeness**.  
 This project leverages **📸 Image Processing** and **🤖 Deep Learning Techniques** to automate the classification of mangoes for better quality control.
 
-📂 Dataset Description
-The dataset used in this project consists of mango images collected from publicly available sources. Each mango sample is assessed based on three key parameters: Texture, Healthiness, and Maturity, using a Likert scale (1 to 5).
+# 📂 Dataset Description  
+The dataset used in this project consists of **mango images** collected from publicly available sources. Each mango sample is assessed based on three key parameters: **Texture, Healthiness, and Maturity**, using a **Likert scale (1 to 5)**.  
 
-📌 Data Collection Sources
-The mango dataset is obtained from the following sources:
-1️⃣ Mendeley Data – A scientific research repository containing high-quality datasets.
-2️⃣ Roboflow – A platform providing annotated datasets for computer vision applications.
-3️⃣ Kaggle – A well-known repository for machine learning datasets and competitions.
+## 📌 Data Collection Sources  
+The mango dataset is obtained from the following sources:  
 
-📊 Data Labeling and Annotation
-Each mango image in the dataset is labeled based on the following assessment criteria:
+1️⃣ **Mendeley Data** – A scientific research repository containing high-quality datasets.  
+2️⃣ **Roboflow** – A platform providing annotated datasets for computer vision applications.  
+3️⃣ **Kaggle** – A well-known repository for machine learning datasets and competitions.  
 
-1️⃣ Texture Assessment
-Evaluates the surface quality of the mango image considering smoothness, roughness, and firmness.
-Likert Scale (1 to 5):
+---
 
-1 = Very Smooth
-2 = Smooth
-3 = Moderately Smooth
-4 = Slightly Rough
-5 = Very Rough
-2️⃣ Healthiness Assessment
-Determines the overall health condition of the mango, identifying any visible defects or diseases.
-Likert Scale (1 to 5):
+## 📊 Data Labeling and Annotation  
+Each mango image in the dataset is labeled based on the following assessment criteria:  
 
-1 = Very Healthy
-2 = Healthy
-3 = Moderately Healthy
-4 = Slightly Unhealthy
-5 = Very Unhealthy
-3️⃣ Maturity Assessment
-Measures the ripeness of the mango based on its appearance.
-Likert Scale (1 to 5):
+### **1️⃣ Texture Assessment**  
+Evaluates the **surface quality** of the mango image considering smoothness, roughness, and firmness.  
 
-1 = Overripe
-2 = Ripe
-3 = Partially Ripe
-4 = Early Ripe
-5 = Unripe
+**Likert Scale (1 to 5):**  
+- **1** = Very Smooth  
+- **2** = Smooth  
+- **3** = Moderately Smooth  
+- **4** = Slightly Rough  
+- **5** = Very Rough  
+
+---
+
+### **2️⃣ Healthiness Assessment**  
+Determines the **overall health condition** of the mango, identifying any visible defects or diseases.  
+
+**Likert Scale (1 to 5):**  
+- **1** = Very Healthy  
+- **2** = Healthy  
+- **3** = Moderately Healthy  
+- **4** = Slightly Unhealthy  
+- **5** = Very Unhealthy  
+
+---
+
+### **3️⃣ Maturity Assessment**  
+Measures the **ripeness** of the mango based on its appearance.  
+
+**Likert Scale (1 to 5):**  
+- **1** = Overripe  
+- **2** = Ripe  
+- **3** = Partially Ripe  
+- **4** = Early Ripe  
+- **5** = Unripe  
+
 
 
 
