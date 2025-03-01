@@ -46,6 +46,24 @@ Each mango image in the dataset is labeled based on the following assessment cri
 🟢 **4 – Early Ripe**  
 🔵 **5 – Unripe** 🌱  
 
+### ✂️ 3️⃣ Preprocessing  
+- **Resizing** (e.g., **224×224 pixels**).  
+- **Color Normalization** for uniformity.  
+- **Noise Reduction** to remove distortions.  
+- **Data Augmentation** (rotation, flipping, scaling).  
+
+### 🔄 4️⃣ Splitting the Dataset  
+- **70%** – Training Set  
+- **15%** – Validation Set  
+- **15%** – Test Set  
+
+### 🏗️ 5️⃣ Feature Extraction  
+Extracting **texture, color distribution, and edges** to enhance model learning.  
+
+### 🛠️ 6️⃣ Model Input Preparation  
+Images are converted into **numerical matrices**, normalized (0-1 range), and prepped for deep learning models.  
+
+✅ **Final Output:** A clean, structured dataset ready for training.  
 
 
 
