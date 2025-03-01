@@ -67,6 +67,39 @@ Images are converted into **numerical matrices**, normalized (0-1 range), and pr
 
 ✅ **Final Output:** A clean, structured dataset ready for training.  
 
+# 🧠 Machine Learning Models  
+
+## **1️⃣ Support Vector Machine (SVM) ⚡**  
+- Finds the optimal decision boundary for classification.  
+- Works well with high-dimensional data and texture-based features.  
+
+## **2️⃣ K-Nearest Neighbors (KNN) 🔍**  
+- Classifies based on similarity to neighbors.  
+- Simple, effective, and works best with well-separated clusters.  
+
+---
+
+# 📊 Model Evaluation  
+Models were trained and evaluated using:  
+✅ **Accuracy** | ✅ **Precision & Recall** | ✅ **Confusion Matrix**  
+
+📌 **Hyperparameter tuning** was performed to enhance performance.  
+
+---
+
+## ✅ Conclusion  
+SVM and KNN were tested for mango classification. The best-performing model was selected for final deployment, ensuring accurate texture, healthiness, and maturity assessment.  
+
+---
+
+# 🚀 Deployment & Integration  
+The final trained model was integrated into a **real-time system** for mango quality assessment:  
+🔹 **Backend Integration** – Model deployed using Flask/FastAPI.  
+🔹 **Frontend Support** – Integrated into a user-friendly interface.  
+🔹 **Real-time Predictions** – Allows seamless classification of mangoes.  
+
+✅ **Final Outcome:** A fully functional AI-powered system for automated mango quality assessment.  
+
 
 
 
