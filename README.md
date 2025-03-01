@@ -11,15 +11,6 @@ This project leverages **📸 Image Processing** and **🤖 Deep Learning Techni
 # 📂 Dataset Description  
 The dataset used in this project consists of **mango images** collected from publicly available sources. Each mango sample is assessed based on three key parameters: **Texture, Healthiness, and Maturity**, using a **Likert scale (1 to 5)**.  
 
-## 📌 Data Collection Sources  
-The mango dataset is obtained from the following sources:  
-
-1️⃣ **Mendeley Data** – A scientific research repository containing high-quality datasets.  
-2️⃣ **Roboflow** – A platform providing annotated datasets for computer vision applications.  
-3️⃣ **Kaggle** – A well-known repository for machine learning datasets and competitions.  
-
----
-
 ## 📊 Data Labeling and Annotation  
 Each mango image in the dataset is labeled based on the following assessment criteria:  
 
