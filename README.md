@@ -88,7 +88,7 @@ Models were trained and evaluated using:
 📌 **Hyperparameter tuning** was performed to enhance performance.  
 
 <p align="center">
-  <img src="images/image3.png" alt="Project Image" width="900">
+  <img src="images/image3.png" alt="Project Image" width="700">
 </p>
 
 ### ✅ Conclusion  
