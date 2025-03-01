@@ -4,11 +4,11 @@
   <img src="images/image1.png" alt="Project Image" width="900" style="border-radius: 30%;">
 </p>
 
-# 🔍 **Project Overview**
+## 🔍 **Project Overview**
 **🚀 An AI-powered system** designed to assess mango quality based on **🟢 Texture**, **🍅 Health**, and **🥭 Ripeness**.  
 This project leverages **📸 Image Processing** and **🤖 Deep Learning Techniques** to automate the classification of mangoes for better quality control.
 
-# 📂 Dataset Description  
+## 📂 Dataset Description  
 The dataset used in this project consists of **mango images** collected from publicly available sources. Each mango sample is assessed based on three key parameters: **Texture, Healthiness, and Maturity**, using a **Likert scale (1 to 5)**.  
 
 ## 📊 Data Labeling and Annotation  
