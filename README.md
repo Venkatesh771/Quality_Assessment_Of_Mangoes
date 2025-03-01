@@ -4,7 +4,7 @@
   <img src="images/image1.png" alt="Project Image" width="900" style="border-radius: 30%;">
 </p>
 
-### 🔍 **Project Overview**
+# 🔍 **Project Overview**
 **🚀 An AI-powered system** designed to assess mango quality based on **🟢 Texture**, **🍅 Health**, and **🥭 Ripeness**.  
 This project leverages **📸 Image Processing** and **🤖 Deep Learning Techniques** to automate the classification of mangoes for better quality control.
 
