@@ -77,7 +77,7 @@ Images are converted into **numerical matrices**, normalized (0-1 range), and pr
 - Classifies based on similarity to neighbors.  
 - Simple, effective, and works best with well-separated clusters.  
 
----
+--
 
 ### 📊 Model Evaluation  
 Models were trained and evaluated using:  
