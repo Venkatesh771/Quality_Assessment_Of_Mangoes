@@ -35,31 +35,31 @@ Each mango image in the dataset is labeled based on the following assessment cri
 
 ### **1️⃣ Texture Assessment**  
 📌 **Likert Scale (1 to 5):**  
-🔵 **1 – Very Smooth** 🟢  
-🟢 **2 – Smooth**  
-🟡 **3 – Moderately Smooth**  
-🟠 **4 – Slightly Rough**  
-🔴 **5 – Very Rough**  
+**1 – Very Smooth**
+**2 – Smooth**  
+**3 – Moderately Smooth**  
+**4 – Slightly Rough**  
+**5 – Very Rough**  
 
 ___
 
 ### **2️⃣ Healthiness Assessment**  
 📌 **Likert Scale (1 to 5):**  
-🟢 **1 – Very Healthy** ✅  
-🟢 **2 – Healthy**  
-🟡 **3 – Moderately Healthy**  
-🟠 **4 – Slightly Unhealthy**  
-🔴 **5 – Very Unhealthy** ❌  
+**1 – Very Healthy**  
+**2 – Healthy**  
+**3 – Moderately Healthy**  
+**4 – Slightly Unhealthy**  
+**5 – Very Unhealthy** ❌  
 
 ---
 
 ### **3️⃣ Maturity Assessment**  
 📌 **Likert Scale (1 to 5):**  
-🔴 **1 – Overripe** 🍂  
-🟠 **2 – Ripe** 🥭  
-🟡 **3 – Partially Ripe**  
-🟢 **4 – Early Ripe**  
-🔵 **5 – Unripe** 🌱  
+**1 – Overripe** 🍂  
+**2 – Ripe** 🥭  
+**3 – Partially Ripe**  
+**4 – Early Ripe**  
+**5 – Unripe** 
 
 ---
 
