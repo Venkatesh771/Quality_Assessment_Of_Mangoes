@@ -30,7 +30,8 @@ The dataset used in this project consists of **mango images** collected from pub
   <img src="images/image.png" alt="Project Image" width="900">
 </p>
   
-<h3 align="center"> **📊 Data Labeling and Annotation** </h3>
+<h3 align="center"> 📊 Data Labeling and Annotation </h3>
+
 Each mango image in the dataset is labeled based on the following assessment criteria:  
 
 ### **1️⃣ Texture Assessment**  
