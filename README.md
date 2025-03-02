@@ -113,6 +113,8 @@ SVM and KNN were tested for mango classification. The best-performing model was 
 
 ✅ **Final Outcome:** A fully functional AI-powered system for automated mango quality assessment.  
 
+---
+
 <p align="center">
-  <img src="images/check.png" alt="Project Image" width="50">
+  <img src="images/check.png" alt="Project Image" width="70">
 </p>
