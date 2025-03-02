@@ -116,5 +116,5 @@ SVM and KNN were tested for mango classification. The best-performing model was 
 ---
 
 <p align="center">
-  <img src="images/check.png" alt="Project Image" width="70">
+  <img src="images/check.png" alt="Project Image" width="60">
 </p>
