@@ -64,7 +64,6 @@ Extracting **texture, color distribution, and edges** to enhance model learning.
 <p align="center">
   <img src="images/image4.png" alt="Project Image" width="600">
 </p>
----
 
 ### 🛠️ Model Input Preparation  
 Images are converted into **numerical matrices**, normalized (0-1 range), and prepped for deep learning models.  
