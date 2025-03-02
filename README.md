@@ -49,7 +49,7 @@ ___
 **2 – Healthy**  
 **3 – Moderately Healthy**  
 **4 – Slightly Unhealthy**  
-**5 – Very Unhealthy** ❌  
+**5 – Very Unhealthy** 
 
 ---
 
