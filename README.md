@@ -61,7 +61,9 @@ ___
 
 ### 🏗️ Feature Extraction  
 Extracting **texture, color distribution, and edges** to enhance model learning.  
-
+<p align="center">
+  <img src="images/image4.png" alt="Project Image" width="600">
+</p>
 ---
 
 ### 🛠️ Model Input Preparation  
