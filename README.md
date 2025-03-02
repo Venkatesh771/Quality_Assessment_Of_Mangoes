@@ -4,9 +4,24 @@
   <img src="images/image1.png" alt="Project Image" width="900" style="border-radius: 30%;">
 </p>
 
-## 🔍 **Project Overview**
-**🚀 An AI-powered system** designed to assess mango quality based on **🟢 Texture**, **🍅 Health**, and **🥭 Ripeness**.  
-This project leverages **📸 Image Processing** and **🤖 Deep Learning Techniques** to automate the classification of mangoes for better quality control.
+## 🔍 **Project Overview**  
+
+🚀 **AI-Powered Mango Quality Assessment System**  
+This project introduces an **automated AI-driven solution** for evaluating mango quality based on **texture, health, and ripeness**.  
+By leveraging **image processing** and **deep learning techniques**, the system classifies mangoes into different quality categories, ensuring better sorting and decision-making in the agricultural and food industries.  
+
+### 🔬 **Key Features**  
+- **🟢 Texture Analysis:** Determines the smoothness or roughness of mango skin.  
+- **🍅 Health Condition:** Identifies potential defects, bruises, or diseases.  
+- **🥭 Ripeness Level:** Classifies mangoes as unripe, ripe, or overripe.  
+
+### 🤖 **Technologies Used**  
+- **📸 Image Processing** for feature extraction.  
+- **SVM & KNN Algorithms** for classification.  
+- **Data Preprocessing & Augmentation** to improve model accuracy.  
+
+✅ This system enables **efficient quality control, reduces human error**, and enhances **agricultural decision-making** by automating the mango grading process. 🍃
+
 
 ## 📂 Dataset Description  
 The dataset used in this project consists of **mango images** collected from publicly available sources. Each mango sample is assessed based on three key parameters: **Texture, Healthiness, and Maturity**, using a **Likert scale (1 to 5)**.  
